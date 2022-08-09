@@ -31,17 +31,17 @@ const FindWord = () => {
     <>
       <Box
         sx={{
-          bgcolor: "#1976d2",
+          bgcolor: "#7976d2",
           py: 3,
         }}
       >
         <Container>
           <Typography
-            variant="h5"
+            variant="h3"
             component="div"
             sx={{ mr: 1, color: "white" }}
           >
-            Find the words that rhyme with
+            Find the words
           </Typography>
         </Container>
       </Box>
