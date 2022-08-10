@@ -12,6 +12,10 @@ Material ui for design
 
 In the project directory, you can run:
 
+### `yarn` or `npm i --legacy-peer-deps`
+
+Install dependencies
+
 ### `yarn start`
 
 Runs the app in the development mode.\
